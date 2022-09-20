@@ -15,6 +15,7 @@ body {
 	color: #4C0033;
 	text-align: center;
 	font-size: 100%;
+	font-size: 1.1em;
 }
 hr {
 	color: #bb599a;
@@ -36,7 +37,7 @@ table td {
 div {
 	background: linear-gradient(25deg, #D291BC, #FEC8D8);
 	max-width: 75%;
-	border-radius: 25rem;
+	border-radius: 1rem;
 	padding: 1rem;
 	margin: 1rem;
 }
