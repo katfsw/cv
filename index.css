@@ -1,0 +1,20 @@
+
+/* ------------------------------------------- */
+body {
+	background: linear-gradient(45deg, #FFDFD3, #D291BC);
+	color: #4C0033;
+	text-align: center;
+}
+hr {
+	color: #957DAD;
+	border-style: dotted none none none;
+	margin: 2%;
+	border-width: 5px;
+}
+img {
+	width: 20%;
+	height: 20%;
+}
+table {
+
+}
